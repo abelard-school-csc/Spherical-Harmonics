@@ -32,7 +32,8 @@ To generate a 3D plot of the spherical harmonic with `n=3`, `l=2`, and `m=1`, yo
 python3 harmonics.py
 ```
 
-This will save a PNG file named `spherical_harmonic_n3_l2_m1.png`.
+This will save a PNG file named `spherical_harmonic_n3_l2_ml1_ms0.5.png`.
+![image](spherical_harmonic_n3_l2_ml1_ms0.5.png)
 
 ## Installation Instructions
 
