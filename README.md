@@ -11,9 +11,9 @@ Spherical harmonics are functions that arise when solving the angular part of La
 $$Y_l^m(\theta, \phi)$$
 
 Where:
-- `l` is the angular momentum quantum number.
-- `m` is the magnetic quantum number.
-- `\theta` and `\phi` are the polar and azimuthal angles, respectively.
+- $l$ is the angular momentum quantum number.
+- $m$ is the magnetic quantum number.
+- $\theta$ and $\phi$ are the polar and azimuthal angles, respectively.
 
 These functions play a key role in fields like quantum mechanics, where they describe electron orbitals, and in 3D graphics, where they approximate complex functions over a sphere.
 
